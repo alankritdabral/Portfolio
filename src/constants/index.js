@@ -41,7 +41,7 @@ export const PROJECTS = [
     description:
       "The AI-Based Online Exam Proctoring System is an innovative solution designed to ensure the integrity and fairness of online examinations. Using advanced artificial intelligence algorithms, the system monitors candidate behavior in real time by processing video and audio streams. It detects suspicious activities such as the absence of a face, multiple faces in the frame, abnormal head movements, unusual eye gaze patterns, and unauthorized objects in the test environment. Detailed logs and PDF reports are generated to document all detected events, helping examiners review any irregularities post-assessment.",
     technologies: ["Python", "Flask", "OpenCV", "Dlib", "YOLO", "MySQL"],
-    link: "https://github.com/alankritdabral/SecureBellAI",
+    link: "https://github.com/alankritdabral/Audio-Video-Exam-Proctoring-System",
   },
   {
     title: "Personal Portfolio Website",
@@ -49,7 +49,7 @@ export const PROJECTS = [
     description:
       "My first serious personal portfolio project, created as part of the Studi Independen Infinite Learning program. The website showcases my skills, projects, and contact information.",
     technologies: ["HTML", "CSS", "JavaScript", "ReactJS", "Tailwind"],
-    link:"https://github.com/alankritdabral/Audio-Video-Exam-Proctoring-System"
+    link:"https://portfolio-7bbu.vercel.app/"
   },
 ];
 
