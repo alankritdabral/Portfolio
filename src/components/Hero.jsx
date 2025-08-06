@@ -29,7 +29,7 @@ const Hero = () => {
             animate="visible"
             className="text-4xl md:text-5xl font-bold leading-tight tracking-tight text-white"
           >
-            Ayush Jagwan
+            Alankrit Dabral
           </motion.h1>
 
           <motion.h2
@@ -38,7 +38,7 @@ const Hero = () => {
             animate="visible"
             className="mt-4 bg-gradient-to-r from-pink-400 via-slate-500 to-purple-500 bg-clip-text text-2xl md:text-3xl font-semibold text-transparent"
           >
-            Web Developer
+            App Developer
           </motion.h2>
 
           <motion.p
@@ -52,7 +52,7 @@ const Hero = () => {
 
           <div className="mt-6">
             <a
-              href="https://drive.google.com/file/d/127oAuSVa9dN-gq-ULL2E6LokTFMPIjX5/view"
+              href="https://drive.google.com/file/d/1Vnf-9Gmef4bfJ2NGnP4X9TUIz6nT1xg8/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-pink-400 via-slate-500 to-purple-500 bg-clip-text text-xl md:text-2xl font-semibold text-transparent hover:underline"
@@ -70,7 +70,7 @@ const Hero = () => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 1.2 }}
             src={profilePic}
-            alt="Ayush Jagwan"
+            alt="Alankrit Dabral"
             className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-lg border-4 border-slate-700"
           />
         </div>
