@@ -4,9 +4,7 @@ import project3 from "../assets/projects/project-3.jpg";
 
 export const HERO_CONTENT = `Hello! I’m a final-semester student with a strong passion for web development and AI/ML. I’ve gained hands-on experience in technologies such as React.js, Django, MySql. My goal is to become a skilled full-stack app developer, capable of building dynamic, user-friendly web applications. As I approach the completion of my degree, I’m excited to apply my knowledge in both front-end and back-end development to create efficient solutions and contribute to projects that push technological innovation and enhance user experiences.`;
 
-export const ABOUT_TEXT = `Hi, I’m Alankrit Dabral, Computer Science graduate with hands-on experience in AI/ML and full-stack development. Built a real-time AI system
-using YOLO and CNN with a privacy-ﬁrst approach. Skilled in Python, React, Django, and TensorFlow. Quick learner and
-team player, driven to create impactful tech solutions.`;
+export const ABOUT_TEXT = `I’m a passionate Computer Science graduate with a strong foundation in AI/ML and full-stack development. I've led and developed impactful real-time AI solutions like SecureBellAI, an edge-based, privacy-first smart doorbell, and a robust AI-powered online proctoring system. My skill set includes Python, React, Django, TensorFlow, and YOLO, enabling me to build intelligent, scalable applications. As a quick learner and collaborative team player, I enjoy solving real-world problems with innovative tech and a privacy-focused approach. I'm always eager to contribute to meaningful projects and grow as a developer.`;
 
 export const EXPERIENCES = [
   {
