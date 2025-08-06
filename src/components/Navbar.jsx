@@ -18,7 +18,6 @@ const Navbar = () => {
       <div className="hidden md:flex items-center gap-4 text-2xl">
         <a href="https://www.linkedin.com/in/alankrit-dabral-35265222a/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
         <a href="https://github.com/alankritdabral" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="https://x.com/ayushjagwan6" target="_blank" rel="noopener noreferrer"><FaSquareXTwitter /></a>
         
       </div>
     </nav>
